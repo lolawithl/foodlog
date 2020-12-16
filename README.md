@@ -1,24 +1,17 @@
-# README
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3 align="center">Foodlog application based on the Ruby On Rails Crash Course from Traversy Media.</h3>
 
-Things you may want to cover:
+## 👩🏼‍💻 Tecnology used
 
-* Ruby version
+- Ruby on Rails.
+- Bulma CSS.
 
-* System dependencies
+## 🔥 Installation and execution
+1. Clone this repository;
+2. Open editor inside the folder;
+3. Run `rails server`;
 
-* Configuration
+---
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made with 💖 and ☕ 
