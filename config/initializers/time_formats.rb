@@ -1,0 +1,1 @@
+Time::DATE_FORMATS[:better_date] = "%B %e, %Y"
